@@ -1,0 +1,165 @@
+/* Para 960px */  
+@media only screen and (max-width: 980px) and (min-width: 821px) {  
+  
+}  
+  
+/* Para 800px */  
+@media only screen and (max-width: 820px) and (min-width: 621px) {  
+  
+}  
+  
+/* Para 600px */  
+@media only screen and (max-width: 620px) and (min-width: 501px) {  
+  
+}  
+  
+/* Para 480px */  
+@media only screen and (max-width: 500px) and (min-width: 341px) {  
+  
+}  
+  
+/* Para 320px */  
+@media only screen and (max-width: 340px) and (min-width: 5px)  {  
+  
+} 
+
+
+
+
+
+header
+   {width: 2000px;
+    height: 50px;
+    text-align: center;
+    background-color: black;
+    top:0px;
+    position: fixed}
+.logo 
+    {font-family: fantasy;
+     font-size: 25px;
+    color: white;}
+.cabecera a
+    {color: white;
+     margin-right: 20px;
+    font-family: arial;
+    text-decoration: none;
+    font-weight: bold;}
+    
+.cabecera a:hover {
+        background-color: white;
+        color: black;
+    }
+    
+.Cutrez {color: lightgray;}
+
+Body {background-color: lightgray;}
+
+.TituloIndice {font-size: 30px;
+margin-bottom: 20px}
+
+.TitulosPreguntas
+{font-size: 20px;
+margin-bottom: 15px}
+
+.EnlacesIndice a 
+{color: black;
+text-decoration: none}
+
+.EnlacesIndice a:hover{color: blue}
+    
+      
+    .PiePagina {width: 2000px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-justify: auto;
+    font-family: arial;
+    font-size: 40px;}
+
+.PieInfoIzquierda
+    {font-family: fantasy;
+     font-size: 20px;
+    text-align: left;}
+.PieInfoIzquierda a
+    {color: white;
+    }
+.PieInfoIzquierda a:hover
+    {background-color: white;
+    color: black;}
+    
+
+/*Reglas APARTADO GRAFICAS*/
+
+.TituloGPU 
+{text-align: center;
+ font-size: 60px;
+font-family: impact;}
+
+.Nvidia1 
+{font-size: 30px;
+ font-family: Arial;
+ text-align: center;
+padding-bottom: 25px;
+}
+
+.Nvidia1 a
+{color: #85c622;
+text-decoration: bold;}
+
+body 
+{font-size: 20px}
+
+.enlaceswikinvidia a, a:hover
+
+{color: #85c622}
+
+.AMD1 
+{text-align: center;
+ font-size: 30px;
+font-family: arial;}
+
+.AMD1 a
+{color: orangered}
+
+.AMD2 a, .AMD2 a:hover
+
+{color: orangered;
+font-size: 25px}
+
+
+
+
+
+
+
+/*Apartado CPU*/
+
+.IndiceCPU {text-align: center;
+font-size: 30px;
+text-decoration: bold;}
+
+
+
+.AEMEDE h2 {font-family: sans-serif;
+color: orangered;
+text-align: center;
+text-decoration: bold;}
+
+.AEMEDE p 
+{text-decoration: bold;
+font-size: 25px}
+
+table a {color: orangered}
+
+.Intel {padding-top: 30px;
+text-align: center;
+font-size: 40px;
+text-decoration: bold;
+color: skyblue;
+font-family: sans-serif}
+
+
+/*Consolas*/
+
+.consolas h2 {text-align: center}
